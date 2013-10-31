@@ -19,6 +19,9 @@
      <property name="toolTip">
       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter user name and password to login&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
+     <property name="styleSheet">
+      <string notr="true">border-image: url(:/borders/border.jpg);</string>
+     </property>
      <property name="title">
       <string>Sign In</string>
      </property>
