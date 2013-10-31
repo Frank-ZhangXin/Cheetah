@@ -16,6 +16,9 @@
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
     <widget class="QGroupBox" name="groupBox">
+     <property name="toolTip">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enter user name and password to login&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
      <property name="title">
       <string>Sign In</string>
      </property>
@@ -196,8 +199,6 @@
        </item>
       </layout>
      </widget>
-     <zorder>layoutWidget_2</zorder>
-     <zorder>groupBox</zorder>
     </widget>
    </item>
   </layout>
